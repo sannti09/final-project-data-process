@@ -25,7 +25,7 @@ Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes 
 
 Se dio respuesta a algunas preguntas del interés de la ciudad de Nueva York, a partir de un análisis exhaustivo de los graficos y resultados obtenidos.
 
-###A continuación se presentan las preguntas planteadas en la primera entrega del proyecto
+A continuación se presentan las preguntas planteadas en la primera entrega del proyecto
 * ¿Son las 3 zonas más pobres de Nueva York, las mismas con más arrestos?
 * ¿Cual es la moda para el rango de edad del delincuente en Nueva York?
 * ¿Cuál es el crimen más repetido por cada etnia?
